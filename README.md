@@ -29,7 +29,7 @@ A 5 key, 1 rotary encoder, and 128 x 32 oled display macropad.
 <br></br>
 1x PCB (found in PCB files):
 <br></br>
-  jlcpcb.com
+  [jlcpcb.com](https://cart.jlcpcb.com/quote?spm=jlcpcb.Public.2006)
 <br></br>
 1x UCB-C cable to connect to device:
 <br></br>
@@ -45,3 +45,14 @@ A 5 key, 1 rotary encoder, and 128 x 32 oled display macropad.
 3x Socket head cap screws SHCS.M316-50:
 <br></br>
   https://www.mcmaster.com/products/cap-screws/fastener-head-type~socket/?utm_term=socket+head+screws&matchtype=p&campaignid=22434467468&adgroupid=179512468004&location=9192110&gad_source=1&gad_campaignid=22434467468&gbraid=0AAAAACLR9bzJOZOt9iCXNA94BZV6c3SeH&gclid=Cj0KCQjwg5zTBhCLARIsAP2AFU4Gy_y1N_8peh6-0NIq77rD3HDhPujhlOnjsu-5q2jlNVQJ24aVfIgaAirbEALw_wcB&s=m3+x+16mm+socket+head+cap+screws
+<br></br>
+<br></br>
+<br></br>
+# To Flash:
+Put the microcontroller in bootloader mode. (Hold reset, double press boot, release reset)
+<br></br>
+Plug into computer
+<br></br>
+Drag UF2 file into microcontroller
+<br></br>
+Flash the python code
