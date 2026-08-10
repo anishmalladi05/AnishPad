@@ -55,4 +55,11 @@ Plug into computer
 <br></br>
 Drag UF2 file into microcontroller
 <br></br>
-Flash the python code
+
+
+Replace boot_out.txt with boot_out.txt in my gihub repo under CIRCUITPY FILES
+Replace code.py with code.py from my repo
+Add boot.txt from my repo
+Add boot.py from my repo
+
+It should start working!
