@@ -1,0 +1,9 @@
+import usb_midi
+import storage
+import usb_hid
+
+# Disable unnecessary features to free up USB endpoints for the keyboard
+usb_midi.disable()
+
+# Enable only the keyboard HID device explicitly
+usb_hid.enable((usb_hid.Device.KEYBOARD,))
