@@ -9,7 +9,7 @@ A 5 key, 1 rotary encoder, and 128 x 32 oled display macropad.
 <br></br>
 1x 128x32 OLED panel (needs to allow for 5v):
 <br></br>
-  https://www.amazon.com/Teyleten-Robot-Display-SSD1306-Raspberry/dp/B08ZY4YBHL/ref=sr_1_8?crid=2P7Q324M9NU5R&dib=eyJ2IjoiMSJ9.kFD1Hf61S_4Esx_Ri0nfRxL2IbKHS18EBfvPV3RbMTTejrivQvgViz-NbMYHmInEN8YL1Qn970PZCHU-pGprpBoBpDyf3f292MDa2ax0PblRTLRZEEvOg7ec0MNDi7Gx6-H6FHfMm-JNoVb4eNKannp4ywWLYuQY5haNGzogZXj3I2zAtqEFSXlmk8RdziLGgX4eoWEh0VGDxSPqL8MQF1qdSG45TIpQkJ-I9XHQvKc.BaL0arWeWUfGGW3rUXuGeVahVgZ6vL6IGYf1S5dpcbc&dib_tag=se&keywords=128by32%2Boled%2B5v%2Bpanel%2Bpre%2Bsoldered&qid=1785202513&sprefix=128by32%2Boled%2B5v%2Bpanel%2Bpre%2Bsoldered%2Caps%2C294&sr=8-8
+  https://www.amazon.com/dp/B079BN2J8V?lv=shuf&channelId=500&plpRedirect=mhFallback&th=1
 <br></br>
 5x Keycaps (Can buy own, or 3d print files are in the CAD folder):
 <br></br>
